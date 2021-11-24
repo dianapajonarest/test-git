@@ -6,4 +6,4 @@ Repositorio prueba
  
  Ejercicios de git
 
- ![](C:/Users/diana/Desktop/gitlog.png)
+![](https://github.com/dianapajonarest/master/blob/main/gitlog.png)
